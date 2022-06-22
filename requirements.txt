@@ -1,5 +1,5 @@
 pip==20.2.2
-numpy==1.19.1
+numpy==1.22.0
 scipy
 keras-preprocessing
 six
